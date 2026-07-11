@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
