@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/0001-two-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamsinghtomar78/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamsinghtomar78/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamsinghtomar78/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamsinghtomar78/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamsinghtomar78/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamsinghtomar78/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -116,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
