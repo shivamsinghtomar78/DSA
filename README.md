@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamsinghtomar78/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -145,4 +147,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 <!---LeetCode Topics End-->
