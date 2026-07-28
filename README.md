@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivamsinghtomar78/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamsinghtomar78/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivamsinghtomar78/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0234-palindrome-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0148-sort-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
