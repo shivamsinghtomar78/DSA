@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivamsinghtomar78/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamsinghtomar78/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamsinghtomar78/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
