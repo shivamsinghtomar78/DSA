@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -62,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Merge Sort
 |  |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
