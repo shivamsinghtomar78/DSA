@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamsinghtomar78/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shivamsinghtomar78/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shivamsinghtomar78/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shivamsinghtomar78/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shivamsinghtomar78/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Design
 |  |
 | ------- |
