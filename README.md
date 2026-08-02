@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/shivamsinghtomar78/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/shivamsinghtomar78/DSA/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamsinghtomar78/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shivamsinghtomar78/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/shivamsinghtomar78/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
