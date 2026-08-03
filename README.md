@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shivamsinghtomar78/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamsinghtomar78/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Heap (Priority Queue)
@@ -207,5 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsinghtomar78/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
