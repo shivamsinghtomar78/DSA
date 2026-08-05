@@ -1,19 +1,33 @@
 class Solution {
     public int rob(int[] nums) {
-        int n=nums.length;
-         
-        int []dp=new int[n+1];
-        Arrays.fill(dp,-1);
+        int n = nums.length;
 
-        return solve(nums,0,dp);
-    }
+        if (n == 1)
+            return nums[0];
 
-     int solve(int[]nums,int i,int[]dp){
-        if(i>=nums.length) return 0;
-        if(dp[i]!=-1) return dp[i];
-        int steal=nums[i]+solve(nums,i+2,dp);
-        int skip=solve(nums,i+1,dp);
+        // dp[i] = maximum profit till house i
+        int[] dp = new int[n + 1];
 
-        return dp[i]=Math.max(steal,skip);
+        dp[0] = 0;
+        dp[1] = nums[0];
+
+        for (int i = 2; i <= n; i++) {
+
+            int skip = dp[i - 1];
+            int steal = nums[i - 1] + dp[i - 2];
+
+            // Maximum profit till current house
+            dp[i] = Math.max(skip, steal);
+
+            /*
+             * SKIP  : If we skip this house,
+             *         profit = dp[i - 1]
+             *
+             * STEAL : If we rob this house,
+             *         profit = nums[i - 1] + dp[i - 2]
+             */
+        }
+
+        return dp[n];
     }
 }
