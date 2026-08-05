@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsinghtomar78/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsinghtomar78/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Memoization
 |  |
 | ------- |
