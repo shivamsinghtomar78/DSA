@@ -1,38 +1,22 @@
 class Solution {
-    int n;
-    long[][] dp = new long[100001][2];
-
-    private long solve(int idx, int[] nums, int isEven) {
-
-        if (idx >= n) {
-            return 0;
-        }
-
-        if (dp[idx][isEven] != -1) {
-            return dp[idx][isEven];
-        }
-
-        // Skip current element
-        long skip = solve(idx + 1, nums, isEven);
-
-        // Take current element
-        long val = nums[idx];
-        if (isEven == 0) {
-            val = -val;
-        }
-
-        long take = solve(idx + 1, nums, 1 - isEven) + val;
-
-        return dp[idx][isEven] = Math.max(skip, take);
-    }
-
     public long maxAlternatingSum(int[] nums) {
-        n = nums.length;
+        int n = nums.length;
 
-        for (int i = 0; i < 100001; i++) {
-            Arrays.fill(dp[i], -1);
+        long[][] dp = new long[n][2];
+
+        // dp[i][0] = maximum alternating sum ending with a subtraction
+        // dp[i][1] = maximum alternating sum ending with an addition
+
+        dp[0][0] = Math.max(-1L * nums[0], 0L);
+        dp[0][1] = Math.max((long) nums[0], 0L);
+
+        for (int i = 1; i < n; i++) {
+
+            dp[i][0] = Math.max(dp[i - 1][1] - nums[i], dp[i - 1][0]);
+
+            dp[i][1] = Math.max(dp[i - 1][0] + nums[i], dp[i - 1][1]);
         }
 
-        return solve(0, nums, 1);
+        return Math.max(dp[n - 1][0], dp[n - 1][1]);
     }
 }
