@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/shivamsinghtomar78/DSA/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/shivamsinghtomar78/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/shivamsinghtomar78/DSA/tree/master/0724-find-pivot-index) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivamsinghtomar78/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Enumeration
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shivamsinghtomar78/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shivamsinghtomar78/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsinghtomar78/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivamsinghtomar78/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
