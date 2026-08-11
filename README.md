@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shivamsinghtomar78/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/shivamsinghtomar78/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/shivamsinghtomar78/DSA/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamsinghtomar78/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamsinghtomar78/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsinghtomar78/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Memoization
@@ -231,4 +234,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
