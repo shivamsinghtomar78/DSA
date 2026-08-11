@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamsinghtomar78/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
+| [1048-longest-string-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamsinghtomar78/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/shivamsinghtomar78/DSA/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamsinghtomar78/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/1048-longest-string-chain) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivamsinghtomar78/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsinghtomar78/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivamsinghtomar78/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamsinghtomar78/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamsinghtomar78/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [1048-longest-string-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/1048-longest-string-chain) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shivamsinghtomar78/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shivamsinghtomar78/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/shivamsinghtomar78/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/shivamsinghtomar78/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shivamsinghtomar78/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Merge Sort
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamsinghtomar78/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1048-longest-string-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/1048-longest-string-chain) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivamsinghtomar78/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sliding Window
 |  |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivamsinghtomar78/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/shivamsinghtomar78/DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/shivamsinghtomar78/DSA/tree/master/1048-longest-string-chain) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsinghtomar78/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/shivamsinghtomar78/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Memoization
